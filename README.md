@@ -1,8 +1,10 @@
 
 ### Como ejecutar
 
-1. Instalar dependencias para arquitectura de lambda. 
+1. Instalar dependencias para arquitectura de lambda.
+   
     - Para `arm64`:
+      
        ~~~bash
        npm i --os=linux --cpu=arm64
        ~~~
